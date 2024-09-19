@@ -1,0 +1,3 @@
+# Functions ---------------------
+def comun():
+    pass
